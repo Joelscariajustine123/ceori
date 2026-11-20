@@ -1,0 +1,17 @@
+/*
+Theme Name: CEORI Skintiva
+Theme URI: https://ceoriskin.com/
+Author: Joel Scaria Justine
+Author URI: https://joelscariajustine.com
+Description: Custom block theme for CEORI Skin Clinic, Calicut. A premium, minimalist dermatology design system with treatment templates, specialist and testimonial management, a results gallery, an appointment enquiry system and built-in local SEO. Layout direction inspired by the Skintiva FSE theme; all code and assets are original.
+Requires at least: 6.6
+Tested up to: 7.1
+Requires PHP: 7.4
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: ceori
+Tags: full-site-editing, block-patterns, block-styles, custom-colors, editor-style, one-column, two-columns, three-columns, wide-blocks, accessibility-ready, blog
+*/
+
+/* Front-end styles live in assets/css/theme.css (enqueued in inc/setup.php). */
